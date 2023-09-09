@@ -4,6 +4,8 @@ The objective of the similar images python project is to develop a computer visi
 
 For example, imagine a user has a photo of a pair of shoes they like and want to find similar products online. The project aims to create a solution that can analyze the image, understand its key features, and provide a list of other products with similar visual characteristics, such as design, color, and style. This way, users can effortlessly explore and find alternative options that match their preferences based on the visual similarity of products.
 
+![Example](Example.png)
+
 ## How to setup this project :
 
 1. Create virtualenv & activate the virtualenv
